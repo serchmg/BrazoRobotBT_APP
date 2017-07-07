@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BrazoBTCom</string>
+    <string name="button_actualizar">Iniciar Conexión Bluetooth</string>
+    <string name="tv_bt_connected">Bluetooth: </string>
+    <string name="bt_device">Dispositivo: </string>
+    <string name="tv_pulgar">Dedo Pulgar</string>
+    <string name="tv_indice">Dedo Indice</string>
+    <string name="tv_medio">Dedo Medio</string>
+    <string name="tv_anular">Dedo Anular</string>
+    <string name="tv_menique">Dedo Menique</string>
+    <string name="button_editar">Editar Mov.</string>
+    <string name="button_act_mov">Actualizar Lista</string>
+    <string name="button_guardar">Guardar</string>
+    <string name="button_nuevo">Nuevo movimiento</string>
+    <string name="button_eliminar">Eliminar</string>
+    <string name="et_nombre_mov">Nombre</string>
+</resources>

@@ -1,0 +1,19 @@
+{
+    "movimientos": [
+    {
+        "nombre":"ceros",
+        "pulgar":0,
+        "indice":0,
+        "medio":0,
+        "anular":0,
+        "menique":0
+    },
+    {
+        "nombre":"todo",
+        "pulgar":80,
+        "indice":80,
+        "medio":80,
+        "anular":80,
+        "menique":80
+    }
+]}
